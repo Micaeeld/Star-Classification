@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Star rating
 
 This notebook aims to classify stars using a data set that includes information such as temperature, luminosity, radius, absolute magnitude, star type, color and spectral class.
